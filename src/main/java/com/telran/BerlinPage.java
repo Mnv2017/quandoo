@@ -1,7 +1,5 @@
 package com.telran;
 
-import org.openqa.selenium.WebDriver;
-
 import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selectors.byXpath;
 import static com.codeborne.selenide.Selenide.$;
